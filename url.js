@@ -7,6 +7,6 @@
  */
 
 
-const urls = ['https://forms.gle/GxbCijGZDqCtewxr9',
-	      'https://forms.gle/owySZzG4u5D782p96'
+const urls = ['https://forms.gle/6xSkCcNFYYzm863g6',
+	      'https://forms.gle/KsAAEmWFuRoSm6j9A'
 ];
